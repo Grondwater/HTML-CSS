@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="Mijn eerste commit" />
+    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="Rosen zijn rood / Werk omgeving personaliseren.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../HTML-CSS" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1me3rUCzOAeZV8OKiPFLnZmga2t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,6 +67,7 @@
       <updated>1609840430078</updated>
       <workItem from="1609840432361" duration="2356000" />
       <workItem from="1609922278377" duration="2898000" />
+      <workItem from="1609927084563" duration="1368000" />
     </task>
     <task id="LOCAL-00001" summary="Mijn eerste commit">
       <created>1609925636964</created>
@@ -86,14 +90,47 @@
       <option name="project" value="LOCAL" />
       <updated>1609926881059</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mijn eerste commit">
+      <created>1609927110873</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609927110873</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mijn eerste commit">
+      <created>1609927194713</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609927194713</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Rosen zijn rood / Werk omgeving personaliseren.">
+      <created>1609927301983</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609927301983</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mijn eerste commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mijn eerste commit" />
+    <MESSAGE value="Rosen zijn rood / Werk omgeving personaliseren." />
+    <option name="LAST_COMMIT_MESSAGE" value="Rosen zijn rood / Werk omgeving personaliseren." />
   </component>
 </project>
