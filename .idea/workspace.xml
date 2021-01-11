@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="Titel, taakbalk titel en afbeeldingen aangepast/toegevoegd.">
-      <change afterPath="$PROJECT_DIR$/Mandarijn.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mandarijnboom.jpg" afterDir="false" />
+    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="Homepage aangepast">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paginatwee.html" beforeDir="false" afterPath="$PROJECT_DIR$/Paginatwee.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <workItem from="1609840432361" duration="2356000" />
       <workItem from="1609922278377" duration="2898000" />
       <workItem from="1609927084563" duration="2856000" />
-      <workItem from="1610366375041" duration="4306000" />
+      <workItem from="1610366375041" duration="5259000" />
     </task>
     <task id="LOCAL-00001" summary="Mijn eerste commit">
       <created>1609925636964</created>
@@ -156,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610370376188</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Homepage aangepast">
+      <created>1610371463785</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610371463785</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +189,7 @@
     <MESSAGE value="Minimale aanpassingen." />
     <MESSAGE value="Sub pagina toegevoegd" />
     <MESSAGE value="Titel, taakbalk titel en afbeeldingen aangepast/toegevoegd." />
-    <option name="LAST_COMMIT_MESSAGE" value="Titel, taakbalk titel en afbeeldingen aangepast/toegevoegd." />
+    <MESSAGE value="Homepage aangepast" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homepage aangepast" />
   </component>
 </project>
