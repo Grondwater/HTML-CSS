@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="Rosen zijn rood / Werk omgeving personaliseren.">
+    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="Tekst toegevoegd met &lt;p&gt;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,8 @@
       <updated>1609840430078</updated>
       <workItem from="1609840432361" duration="2356000" />
       <workItem from="1609922278377" duration="2898000" />
-      <workItem from="1609927084563" duration="1368000" />
+      <workItem from="1609927084563" duration="2856000" />
+      <workItem from="1610366375041" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary="Mijn eerste commit">
       <created>1609925636964</created>
@@ -111,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609927301983</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Titel aangepast">
+      <created>1609929072416</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609929072416</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tekst toegevoegd met &lt;p&gt;">
+      <created>1609929357302</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609929357302</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,10 +141,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mijn eerste commit" />
     <MESSAGE value="Rosen zijn rood / Werk omgeving personaliseren." />
-    <option name="LAST_COMMIT_MESSAGE" value="Rosen zijn rood / Werk omgeving personaliseren." />
+    <MESSAGE value="Titel aangepast" />
+    <MESSAGE value="Tekst toegevoegd met &lt;p&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tekst toegevoegd met &lt;p&gt;" />
   </component>
 </project>
