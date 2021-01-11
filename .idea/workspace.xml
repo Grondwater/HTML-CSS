@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="Minimale aanpassingen.">
+    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="Sub pagina toegevoegd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
     </list>
@@ -68,7 +68,7 @@
       <workItem from="1609840432361" duration="2356000" />
       <workItem from="1609922278377" duration="2898000" />
       <workItem from="1609927084563" duration="2856000" />
-      <workItem from="1610366375041" duration="1890000" />
+      <workItem from="1610366375041" duration="3094000" />
     </task>
     <task id="LOCAL-00001" summary="Mijn eerste commit">
       <created>1609925636964</created>
@@ -140,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610367362431</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Sub pagina toegevoegd">
+      <created>1610369043687</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610369043687</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +172,7 @@
     <MESSAGE value="Tekst toegevoegd met &lt;p&gt;" />
     <MESSAGE value="push&amp;commit Hallo wereld website." />
     <MESSAGE value="Minimale aanpassingen." />
-    <option name="LAST_COMMIT_MESSAGE" value="Minimale aanpassingen." />
+    <MESSAGE value="Sub pagina toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sub pagina toegevoegd" />
   </component>
 </project>
