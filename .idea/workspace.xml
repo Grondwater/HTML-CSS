@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="Subpage toegevoegd &amp; uitgevoerd. Werkt naar behoren.">
-      <change afterPath="$PROJECT_DIR$/Tabel.html" afterDir="false" />
+    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="één simpele oefen tabel gemaakt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tabel.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1609840432361" duration="2356000" />
       <workItem from="1609922278377" duration="2898000" />
       <workItem from="1609927084563" duration="2856000" />
-      <workItem from="1610366375041" duration="6444000" />
+      <workItem from="1610366375041" duration="7524000" />
     </task>
     <task id="LOCAL-00001" summary="Mijn eerste commit">
       <created>1609925636964</created>
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610372610658</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="één simpele oefen tabel gemaakt">
+      <created>1610373661403</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1610373661403</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +204,7 @@
     <MESSAGE value="Titel, taakbalk titel en afbeeldingen aangepast/toegevoegd." />
     <MESSAGE value="Homepage aangepast" />
     <MESSAGE value="Subpage toegevoegd &amp; uitgevoerd. Werkt naar behoren." />
-    <option name="LAST_COMMIT_MESSAGE" value="Subpage toegevoegd &amp; uitgevoerd. Werkt naar behoren." />
+    <MESSAGE value="één simpele oefen tabel gemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="één simpele oefen tabel gemaakt" />
   </component>
 </project>
