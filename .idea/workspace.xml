@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="Tabel nummer 2 afgerond. &lt;1/3 gemaakt&gt;">
+    <list default="true" id="6545fef1-25a2-4cf2-bdde-f310698d1a44" name="Default Changelist" comment="Tabel nummer 6 afgerond&amp;toegevoegd. &lt;2/3 gemaakt&gt;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tabel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tabel.html" afterDir="false" />
     </list>
@@ -69,7 +69,7 @@
       <workItem from="1609922278377" duration="2898000" />
       <workItem from="1609927084563" duration="2856000" />
       <workItem from="1610366375041" duration="7752000" />
-      <workItem from="1610441990850" duration="1233000" />
+      <workItem from="1610441990850" duration="1852000" />
     </task>
     <task id="LOCAL-00001" summary="Mijn eerste commit">
       <created>1609925636964</created>
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610374893127</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Tabel nummer 6 afgerond&amp;toegevoegd. &lt;2/3 gemaakt&gt;">
+      <created>1610443700698</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1610443700698</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +221,7 @@
     <MESSAGE value="Subpage toegevoegd &amp; uitgevoerd. Werkt naar behoren." />
     <MESSAGE value="één simpele oefen tabel gemaakt" />
     <MESSAGE value="Tabel nummer 2 afgerond. &lt;1/3 gemaakt&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tabel nummer 2 afgerond. &lt;1/3 gemaakt&gt;" />
+    <MESSAGE value="Tabel nummer 6 afgerond&amp;toegevoegd. &lt;2/3 gemaakt&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tabel nummer 6 afgerond&amp;toegevoegd. &lt;2/3 gemaakt&gt;" />
   </component>
 </project>
