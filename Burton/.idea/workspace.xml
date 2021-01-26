@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f17f4af9-52b8-4675-8f12-2a2eb2a7e46b" name="Default Changelist" comment="Opdracht Form 03" />
+    <list default="true" id="f17f4af9-52b8-4675-8f12-2a2eb2a7e46b" name="Default Changelist" comment="Onderdeel formulieren klaar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611563827273</updated>
       <workItem from="1611563828486" duration="7528000" />
-      <workItem from="1611648766808" duration="2269000" />
+      <workItem from="1611648766808" duration="2638000" />
     </task>
     <task id="LOCAL-00001" summary="Schets gemaakt.">
       <created>1611568976299</created>
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611652514863</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Onderdeel formulieren klaar">
+      <created>1611652793123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611652793123</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +110,7 @@
     <MESSAGE value="HB05 Html/CSS helemaal afgerond en klaar" />
     <MESSAGE value="Login form toegevoegd &amp; werkt" />
     <MESSAGE value="Opdracht Form 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opdracht Form 03" />
+    <MESSAGE value="Onderdeel formulieren klaar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Onderdeel formulieren klaar" />
   </component>
 </project>
