@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b7c8016-a2f8-486f-9c50-2b526760445a" name="Default Changelist" comment="Positionering gedaan en laatste commit van deze opdracht">
+      <change afterPath="$PROJECT_DIR$/../H05/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H05/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H05/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H05/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H05/img/appel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H05/img/book.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H05/img/burton_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H05/img/bus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H05/img/desk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H05/img/football.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H05/img/pythagoras.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1n3NNgy1XubxOQhMZGUttYVivqs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\douwe\PhpstormProjects\HTML-CSS\Wilkens" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b7c8016-a2f8-486f-9c50-2b526760445a" name="Default Changelist" comment="" />
+      <created>1610614775686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610614775686</updated>
+      <workItem from="1610614776921" duration="5300000" />
+      <workItem from="1610710133596" duration="2398000" />
+      <workItem from="1610963960233" duration="1532000" />
+      <workItem from="1611146844399" duration="595000" />
+      <workItem from="1611563269963" duration="249000" />
+    </task>
+    <task id="LOCAL-00001" summary="Weinig gecommit, Wrapper, foto's &amp; opties toegevoegd.">
+      <created>1610623042329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610623042329</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Positionering gedaan en laatste commit van deze opdracht">
+      <created>1610715155816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610715155816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Weinig gecommit, Wrapper, foto's &amp; opties toegevoegd." />
+    <MESSAGE value="Positionering gedaan en laatste commit van deze opdracht" />
+    <option name="LAST_COMMIT_MESSAGE" value="Positionering gedaan en laatste commit van deze opdracht" />
+  </component>
+</project>
