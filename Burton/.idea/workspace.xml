@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f17f4af9-52b8-4675-8f12-2a2eb2a7e46b" name="Default Changelist" comment="Onderdeel formulieren klaar" />
+    <list default="true" id="f17f4af9-52b8-4675-8f12-2a2eb2a7e46b" name="Default Changelist" comment="Onderdeel formulieren klaar">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +53,7 @@
       <updated>1611563827273</updated>
       <workItem from="1611563828486" duration="7528000" />
       <workItem from="1611648766808" duration="2638000" />
+      <workItem from="1611733554609" duration="1164000" />
     </task>
     <task id="LOCAL-00001" summary="Schets gemaakt.">
       <created>1611568976299</created>
