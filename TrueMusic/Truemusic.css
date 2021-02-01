@@ -5,8 +5,12 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color:rgb(250,241,234);
+
     font-family: 'Raleway', sans-serif;
+}
+
+div#wrapper {
+    background-color:rgb(250,241,234);
 }
 
 header {
@@ -50,10 +54,14 @@ li a {
     }
 }
 
+/* --- einde navigatie ---*/
+
 h3 {
     color: rgb(220,106,94);
     font-weight: 600;
 }
+
+/* --- Sections en Footers ---*/
 
 section, footer {
     padding: 20px;
@@ -70,6 +78,33 @@ section, footer {
     }
 }
 
+@media all and (min-width: 920px){
+    section#nieuws{
+        width: 30%;
+        float:left;
+    }
+    section#instrumenten{
+        width: 70%;
+        float:right;
+    }
+}
+
+@media all and (min-width: 1200px){
+ div#wrapper {
+     width: 1200px;
+     margin: auto;
+ }
+}
+
+article {
+        display: inline-block;
+        width:46%;
+        margin-right: 20px;
+}
+
+article:nth-child(even){
+    margin-right: 0px;
+}
 
 footer {
     background-color: rgb(128,128,128);
