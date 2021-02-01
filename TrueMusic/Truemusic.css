@@ -32,6 +32,17 @@ li a {
     text-decoration: none;
 }
 
+@media all and (min-width: 550px){
+    ul{
+        background-color: rgb(128,128,128);
+        border-top: 1px solid white;
+    }
+    li{
+        display: inline-block;
+        border:none;
+    }
+}
+
 h3 {
     color: rgb(220,106,94);
     font-weight: 600;
@@ -41,9 +52,22 @@ section, footer {
     padding: 20px;
 }
 
+@media all and (min-width: 550px){
+    section#nieuws{
+        width: 40%;
+        float:left;
+    }
+    section#instrumenten{
+        width: 60%;
+        float:right;
+    }
+}
+
+
 footer {
     background-color: rgb(128,128,128);
     color: white;
+    clear: both;
 }
 
 footer h3 {
